@@ -1,0 +1,4 @@
+C:\Users\camps\Desktop\HoloLeague\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\camps\Desktop\HoloLeague\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\camps\Desktop\HoloLeague\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\camps\Desktop\HoloLeague\App\HoloLeague\HoloLeague.csproj;x86
